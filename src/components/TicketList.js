@@ -16,6 +16,11 @@ const mainTicketList = [
     names: 'Imani & Jacob',
     location: '9F',
     issue: 'Child component isn\'t rendering.'
+  },
+  {
+    names: 'Normani & Sam Smith', 
+    location: 'London', 
+    issue: 'Dancing With a Stranger'
   }
 ];
 
